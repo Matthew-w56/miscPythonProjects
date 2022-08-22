@@ -1,0 +1,20 @@
+High score for SnakeGame:
+101
+Most Recent Try:
+53
+
+Hard Mode:
+High score for Hard Snake Game:  
+25
+Most Recent Try on hard:
+5
+
+
+
+
+
+
+
+
+
+
